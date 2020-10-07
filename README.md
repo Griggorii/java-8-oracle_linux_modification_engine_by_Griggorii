@@ -1,5 +1,5 @@
 # java-8-oracle_linux_modification_engine_by_Griggorii
-java-8 , oracle , android , java , modification , , jar , shell , jdb , обратные совместимости , embedded ,javac , jdk , xml , dtd , shemegen , jcpp java c  preprocessor
+java-8 , oracle , android , java , modification , jar , shell , jdb , обратные совместимости , embedded ,javac , jdk , xml , dtd , schemagen , jcpp java c  preprocessor , jdeps , jmap , extcheck , jarsigner , appletviewer , rmiregistry , pack200 , unpack200 , jsadebugd , jps , jexec
 
 Install my tarball https://yadi.sk/d/eBjX-DNHtg5xtw
 
