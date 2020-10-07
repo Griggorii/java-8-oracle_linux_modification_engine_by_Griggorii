@@ -4,3 +4,5 @@ java-8 , oracle , android , java , modification , jar , shell , jdb , обрат
 Install my tarball https://yadi.sk/d/eBjX-DNHtg5xtw
 
 https://www.youtube.com/watch?v=kyNk8b4Z4ik
+
+Griggorii@gmail.com только настоящие технологии
