@@ -11,4 +11,4 @@ Example all programm development griggorii java-8 modification folder buildroot-
 
 .1/buildroot-build
 >>> llvm 10.0.0 Building
-PATH="/tmp/buildroot-master/output/host/bin:/tmp/buildroot-master:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin"  /usr/bin/make -j5  -C /tmp/buildroot-master/llvm-10.0.0//buildroot-build
+PATH="/tmp/buildroot-master/output/host/bin:/tmp/buildroot-master/output/host/sbin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin"  /usr/bin/make -j5  -C /tmp/buildroot-master/output/build/llvm-10.0.0//buildroot-build
