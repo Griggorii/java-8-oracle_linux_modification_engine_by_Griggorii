@@ -5,6 +5,12 @@ Install my tarball java-8-oracle_linux https://yadi.sk/d/eBjX-DNHtg5xtw
 
 https://www.youtube.com/watch?v=kyNk8b4Z4ik
 
+$ sudo ln -s /usr/lib/jvm/java-8-oracle/bin/* /usr/bin
+
+Not found link ? check example not link policytool open /usr/lib/jvm/java-8-oracle/bin
+
+$ sudo ln -s /usr/lib/jvm/java-8-oracle/bin/policytool /usr/bin
+
 Только настоящие технологии ни каких выдуманных паразитирующих дистрибутивов support real technology investments and donate griggorii@gmail.com
 
 Example all programm development griggorii java-8 modification folder buildroot-master in locate /tmp
