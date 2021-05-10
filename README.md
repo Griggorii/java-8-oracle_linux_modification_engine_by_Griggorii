@@ -5,7 +5,7 @@ Install my tarball https://yadi.sk/d/eBjX-DNHtg5xtw
 
 https://www.youtube.com/watch?v=kyNk8b4Z4ik
 
-Griggorii@gmail.com только настоящие технологии bitcoin support real technology new fix 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
+Только настоящие технологии ни каких выдуманных паразитирующих дистрибутивов support real technology investments and donate griggorii@gmail.com
 
 Example all programm development griggorii java-8 modification folder buildroot-master in locate /tmp
 
