@@ -11,6 +11,8 @@ Not found link ? check example not link policytool open /usr/lib/jvm/java-8-orac
 
 $ sudo ln -s /usr/lib/jvm/java-8-oracle/bin/policytool /usr/bin
 
++ good instrument https://github.com/pxb1988/dex2jar/releases
+
 Только настоящие технологии ни каких выдуманных паразитирующих дистрибутивов support real technology investments and donate griggorii@gmail.com
 
 Example all programm development griggorii java-8 modification folder buildroot-master in locate /tmp
