@@ -25,7 +25,7 @@ $ echo $JAVA_HOME
 
 + https://github.com/java-decompiler/jd-gui/releases/ deb install fix $ sudo nano '/opt/jd-gui/jd-gui.desktop' replace string 4) Exec=java -jar /opt/jd-gui/jd-gui.jar to fix ->  Exec=java -jarsudo nano d-gui/jd-gui-1.6.6-min.jar
 
-Только настоящие технологии ни каких выдуманных паразитирующих дистрибутивов support real technology investments and donate griggorii@gmail.com
+Только настоящие технологии ни каких выдуманных паразитирующих дистрибутивов support real technology investments and donate griggorii@gmail.com болле того предлагается декомпелировать весь java class и строить новый chromium браузер уже из очищенного java кода на java двигателе что бы не скачивать 1000 гигабайт сырцов , а в будущем это уже не будет не обычным , но это будет глупым решением довести до этого когда весь интерфеис можно переконыертировать в java двигатель.
 
 Example all programm development griggorii java-8 modification folder buildroot-master in locate /tmp
 
