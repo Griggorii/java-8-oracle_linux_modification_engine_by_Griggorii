@@ -13,7 +13,7 @@ $ sudo ln -s /usr/lib/jvm/java-8-oracle/bin/policytool /usr/bin
 
 $ sudo nano /etc/environment
 
-Add string /etc/environment save java_home  
+Add new string /etc/environment save java_home  
 
 JAVA_HOME="/usr/lib/jvm/java-8-oracle"
 
