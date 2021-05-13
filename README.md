@@ -11,6 +11,14 @@ Not found link ? check example not link policytool open /usr/lib/jvm/java-8-orac
 
 $ sudo ln -s /usr/lib/jvm/java-8-oracle/bin/policytool /usr/bin
 
+$ sudo nano /etc/environment
+
+Add string /etc/environment save java_home  
+
+JAVA_HOME="/usr/lib/jvm/java-8-oracle"
+
+Reboot check echo $JAVA_HOME
+
 + good instrument https://github.com/pxb1988/dex2jar/releases
 
 Только настоящие технологии ни каких выдуманных паразитирующих дистрибутивов support real technology investments and donate griggorii@gmail.com
