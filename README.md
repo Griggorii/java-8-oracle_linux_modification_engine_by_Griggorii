@@ -17,7 +17,9 @@ Add new string /etc/environment save java_home
 
 JAVA_HOME="/usr/lib/jvm/java-8-oracle"
 
-Reboot check echo $JAVA_HOME
+Reboot check 
+
+$ echo $JAVA_HOME
 
 + good instrument https://github.com/pxb1988/dex2jar/releases
 
